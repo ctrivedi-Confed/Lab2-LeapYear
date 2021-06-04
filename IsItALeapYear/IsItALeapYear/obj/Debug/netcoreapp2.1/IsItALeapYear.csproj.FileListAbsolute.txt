@@ -1,0 +1,10 @@
+C:\Users\Chintan\source\repos\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp2.1\IsItALeapYear.deps.json
+C:\Users\Chintan\source\repos\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp2.1\IsItALeapYear.runtimeconfig.json
+C:\Users\Chintan\source\repos\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp2.1\IsItALeapYear.runtimeconfig.dev.json
+C:\Users\Chintan\source\repos\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp2.1\IsItALeapYear.dll
+C:\Users\Chintan\source\repos\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp2.1\IsItALeapYear.pdb
+C:\Users\Chintan\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp2.1\IsItALeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Chintan\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp2.1\IsItALeapYear.AssemblyInfoInputs.cache
+C:\Users\Chintan\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp2.1\IsItALeapYear.AssemblyInfo.cs
+C:\Users\Chintan\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp2.1\IsItALeapYear.dll
+C:\Users\Chintan\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp2.1\IsItALeapYear.pdb
